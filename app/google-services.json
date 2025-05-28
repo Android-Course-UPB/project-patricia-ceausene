@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "819334555921",
+    "project_id": "eco-tracker-f911d",
+    "storage_bucket": "eco-tracker-f911d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819334555921:android:7a8b8c80c6369d3b74c4b0",
+        "android_client_info": {
+          "package_name": "com.example.ecotracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjXEkYsX0TaLSPyHYWPEwUiGamhlv-mss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

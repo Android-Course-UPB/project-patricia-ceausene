@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Eco Tracker</string>
+    <string name="hello">Hey there!</string>
+    <string name="create_account">Create an Account</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="hide_password">Hide password</string>
+    <string name="show_password">Show password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="or">or</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="SDG3">Ensure healthy lives and promote well-being for all at all ages. SDG 3 not only aims to reduce mortality rates, but also emphasises the importance of mental health, access to healthcare services and promoting healthy lifestyles that contribute to overall well-being.</string>
+    <string name="SDG11">Make cities and human settlements inclusive, safe, resilient, and sustainable. This goal focuses on ensuring access to safe and affordable housing, enhancing inclusive and sustainable urbanization, reducing the adverse effects of natural disasters, and reducing the environmental impact of cities.</string>
+    <string name="SDG12">Ensure sustainable consumption and production patterns. SDG 12 seeks to implement sustainable management and efficient use of natural resources, reduce waste generation through prevention, reduction, recycling, and reuse, and encourage companies to adopt sustainable practices.</string>
+    <string name="SDG13">Take urgent action to combat climate change and its impacts. This goal underscores the need to strengthen resilience and adaptive capacity to climate-related hazards, integrate climate change measures into policies and planning, and improve education and awareness on climate change mitigation.</string>
+    <string name="SDG15">Protect, restore, and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss. SDG 15 focuses on conserving mountain ecosystems, protecting biodiversity and natural habitats, and creating a global framework for sustainable development.</string>
+    <string name="you_successfully_updated_your_profile_image">You successfully updated your profile image.</string>
+</resources>
